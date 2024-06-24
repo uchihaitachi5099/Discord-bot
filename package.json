@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+        "@discordjs/builders": "^1.8.2",
+        "@discordjs/voice": "^0.17.0",
+        "chromedriver": "^126.0.1",
+        "color": "^4.2.3",
+        "colors": "^1.4.0",
+        "discord-buttons": "^4.0.0-deprecated",
+        "discord-logs": "^2.2.1",
+        "discord.js": "^13.17.1",
+        "dotenv": "^16.4.5",
+        "easy-json-database": "^1.5.1",
+        "puppeteer": "^22.11.1",
+        "selenium-webdriver": "^4.21.0",
+        "uno-engine": "^2.0.3",
+        "ytdl-core": "^4.11.5"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "addstaff_permission_error": "Нямаш права",
+  "user_mention_error": "Please mention a user to add as staff.",
+  "member_not_found_error": "Member not found.",
+  "already_staff_error": "The mentioned user is already staff.",
+  "role_not_found_error": "The specified role was not found."
+}
